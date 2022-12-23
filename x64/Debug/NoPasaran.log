@@ -1,0 +1,31 @@
+﻿cl : командная строка warning D9002: пропуск неизвестного параметра "-mtune=native"
+  main.cpp
+C:\Users\User\source\repos\NoPasaran\NoPasaran\Enemy.h(19,24): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\NoPasaran\NoPasaran\main.cpp(43,76): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\NoPasaran\NoPasaran\main.cpp(43,54): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\NoPasaran\NoPasaran\main.cpp(68,43): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\NoPasaran\NoPasaran\main.cpp(262,72): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\User\source\repos\NoPasaran\NoPasaran\main.cpp(262,50): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\User\source\repos\NoPasaran\NoPasaran\main.cpp(298,72): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\User\source\repos\NoPasaran\NoPasaran\main.cpp(298,50): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+  NoPasaran.vcxproj -> C:\Users\User\source\repos\NoPasaran\x64\Debug\NoPasaran.exe

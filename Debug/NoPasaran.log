@@ -1,0 +1,12 @@
+﻿  Character.cpp
+C:\Users\User\source\repos\NoPasaran\NoPasaran\Character.cpp(19,23): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\NoPasaran\NoPasaran\Character.cpp(24,22): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\NoPasaran\NoPasaran\Character.cpp(28,26): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\NoPasaran\NoPasaran\Character.cpp(32,25): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+Character.obj : error LNK2019: unresolved external symbol "public: __int64 __thiscall sf::Time::asMicroseconds(void)const " (?asMicroseconds@Time@sf@@QBE_JXZ) referenced in function "private: void __thiscall Character::move(void)" (?move@Character@@AAEXXZ)
+Character.obj : error LNK2019: unresolved external symbol "public: __thiscall sf::Clock::Clock(void)" (??0Clock@sf@@QAE@XZ) referenced in function "private: void __thiscall Character::move(void)" (?move@Character@@AAEXXZ)
+Character.obj : error LNK2019: unresolved external symbol "public: class sf::Time __thiscall sf::Clock::restart(void)" (?restart@Clock@sf@@QAE?AVTime@2@XZ) referenced in function "private: void __thiscall Character::move(void)" (?move@Character@@AAEXXZ)
+Character.obj : error LNK2019: unresolved external symbol "public: static bool __cdecl sf::Keyboard::isKeyPressed(enum sf::Keyboard::Key)" (?isKeyPressed@Keyboard@sf@@SA_NW4Key@12@@Z) referenced in function "private: void __thiscall Character::move(void)" (?move@Character@@AAEXXZ)
+Character.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::Transformable::move(float,float)" (?move@Transformable@sf@@QAEXMM@Z) referenced in function "private: void __thiscall Character::move(void)" (?move@Character@@AAEXXZ)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\User\source\repos\NoPasaran\Debug\NoPasaran.exe : fatal error LNK1120: 6 unresolved externals

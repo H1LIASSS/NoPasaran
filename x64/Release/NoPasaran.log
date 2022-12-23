@@ -1,0 +1,177 @@
+﻿cl : command line  warning D9002: ignoring unknown option '-mtune=native'
+  AssetManager.cpp
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\AssetManager.cpp(52,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Base.cpp
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Base.cpp(40,51): warning C4244: 'return': conversion from 'sf::Int64' to 'double', possible loss of data
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Base.cpp(50,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Base.cpp(50,31): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Bullet.cpp
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Bullet.h(22,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Bullet.cpp(21,21): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Bullet.cpp(26,66): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Bullet.cpp(26,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Bullet.cpp(45,112): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Bullet.cpp(45,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Character.cpp
+  Enemy.cpp
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Enemy.h(18,24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Bullet.h(22,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Enemy.cpp(23,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Enemy.cpp(23,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Enemy.cpp(33,111): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Enemy.cpp(33,70): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Enemy.cpp(69,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Enemy.cpp(73,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Enemy.cpp(73,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Level.cpp
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Level.cpp(87,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Level.cpp(88,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Level.cpp(131,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Level.cpp(131,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Level.cpp(181,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Level.cpp(181,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Level.cpp(196,22): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Level.cpp(197,23): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Level.cpp(198,25): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Level.cpp(199,24): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  main.cpp
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Enemy.h(18,24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Bullet.h(22,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\main.cpp(32,82): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\main.cpp(32,57): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\main.cpp(56,43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\main.cpp(105,74): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\main.cpp(107,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\main.cpp(233,78): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\main.cpp(233,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\main.cpp(266,78): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\main.cpp(266,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Parent.cpp
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Parent.cpp(27,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Parent.cpp(27,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Parent.cpp(64,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Pistol.cpp
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Bullet.h(22,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Pistol.cpp(11,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Pistol.cpp(17,17): warning C4305: '=': truncation from 'double' to 'float'
+  Player.cpp
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Player.cpp(14,66): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Player.cpp(14,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Timer.cpp
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  UI.cpp
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\UI.cpp(20,66): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\UI.cpp(20,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\UI.cpp(57,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\UI.cpp(58,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\UI.cpp(65,82): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\UI.cpp(65,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\UI.cpp(199,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Weapon.cpp
+  World.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\Timer.cpp(27): warning C4715: 'Timer::getElapsedTime': not all control paths return a value
+C:\Users\t7929\Рабочий стол\NoPasaran\NoPasaran\UI.cpp(161): warning C4715: 'ButtonText::clicked': not all control paths return a value
+  All 1214 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  NoPasaran.vcxproj -> C:\Users\t7929\Рабочий стол\NoPasaran\x64\Release\NoPasaran.exe
